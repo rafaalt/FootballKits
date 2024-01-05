@@ -1,0 +1,204 @@
+{
+    "teams":[
+        {
+          "name": "América-MG",
+          "logo": "america-mg.png",
+          "kits": {
+            "year": "23-24",
+            "home": "america-home.jpg",
+            "away": "america-away.jpg",
+            "third": "america-3rd.jpg"
+          }
+        },
+        {
+          "name": "Athletico-PR",
+          "logo": "athletico-pr.png",
+          "kits": {
+            "year": "23-24",
+            "home": "athletico-pr-home.jpg",
+            "away": "athletico-pr-away.jpg",
+            "third": "athletico-pr-3rd.jpg"
+          }
+        },
+        {
+          "name": "Atlético-MG",
+          "logo": "atletico-mg.png",
+          "kits": {
+            "year": "23-24",
+            "home": "atletico-home.jpg",
+            "away": "atletico-away.jpg",
+            "third": "atletico-3rd.jpg"
+          }
+        },
+        {
+          "name": "Bahia",
+          "logo": "bahia.png",
+          "kits": {
+            "year": "23-24",
+            "home": "bahia-home.jpg",
+            "away": "bahia-away.jpg",
+            "third": "bahia-3rd.jpg"
+          }
+        },
+        {
+          "name": "Botafogo",
+          "logo": "botafogo.png",
+          "kits": {
+            "year": "23-24",
+            "home": "botafogo-home.jpg",
+            "away": "botafogo-away.jpg",
+            "third": "botafogo-3rd.jpg"
+          }
+        },
+        {
+          "name": "Corinthians",
+          "logo": "corinthians.png",
+          "kits": {
+            "year": "23-24",
+            "home": "corinthians-home.jpg",
+            "away": "corinthians-away.jpg",
+            "third": "corinthians-3rd.jpg"
+          }
+        },
+        {
+          "name": "Coritiba",
+          "logo": "coritiba.png",
+          "kits": {
+            "year": "23-24",
+            "home": "coritiba-home.jpg",
+            "away": "coritiba-away.jpg",
+            "third": "coritiba-3rd.jpg"
+          }
+        },
+        {
+          "name": "Cruzeiro",
+          "logo": "cruzeiro.png",
+          "kits": {
+            "year": "23-24",
+            "home": "cruzeiro-home.jpg",
+            "away": "cruzeiro-away.jpg",
+            "third": "cruzeiro-3rd.jpg"
+          }
+        },
+        {
+            "name": "Cuiabá",
+            "logo": "cuiaba.png",
+            "kits": {
+              "year": "23-24",
+              "home": "cuiaba-home.jpg",
+              "away": "cuiaba-away.jpg",
+              "third": "cuiaba-3rd.jpg"
+            }
+          },
+        {
+          "name": "Flamengo",
+          "logo": "flamengo.png",
+          "kits": {
+            "year": "23-24",
+            "home": "flamengo-home.jpg",
+            "away": "flamengo-away.jpg",
+            "third": "flamengo-3rd.jpg"
+          }
+        },
+        {
+          "name": "Fluminense",
+          "logo": "fluminense.png",
+          "kits": {
+            "year": "23-24",
+            "home": "fluminense-home.jpg",
+            "away": "fluminense-away.jpg",
+            "third": "fluminense-3rd.jpg"
+          }
+        },
+        {
+          "name": "Fortaleza",
+          "logo": "fortaleza.png",
+          "kits": {
+            "year": "23-24",
+            "home": "fortaleza-home.jpg",
+            "away": "fortaleza-away.jpg",
+            "third": "fortaleza-3rd.jpg"
+          }
+        },
+        {
+            "name": "Goiás",
+            "logo": "goias.png",
+            "kits": {
+              "year": "23-24",
+              "home": "goias-home.jpg",
+              "away": "goias-away.jpg",
+              "third": "goias-3rd.jpg"
+            }
+          },
+        {
+          "name": "Grêmio",
+          "logo": "gremio.png",
+          "kits": {
+            "year": "23-24",
+            "home": "gremio-home.jpg",
+            "away": "gremio-away.jpg",
+            "third": "gremio-3rd.jpg"
+          }
+        },
+        {
+          "name": "Internacional",
+          "logo": "internacional.png",
+          "kits": {
+            "year": "23-24",
+            "home": "internacional-home.jpg",
+            "away": "internacional-away.jpg",
+            "third": "internacional-3rd.jpg"
+          }
+        },
+        {
+          "name": "Palmeiras",
+          "logo": "palmeiras.png",
+          "kits": {
+            "year": "23-24",
+            "home": "palmeiras-home.jpg",
+            "away": "palmeiras-away.jpg",
+            "third": "palmeiras-3rd.jpg"
+          }
+        },
+        {
+          "name": "Red Bull Bragantino",
+          "logo": "red-bull-bragantino.png",
+          "kits": {
+            "year": "23-24",
+            "home": "bragantino-home.jpg",
+            "away": "bragantino-away.jpg",
+            "third": "bragantino-3rd.jpg"
+          }
+        },
+        {
+          "name": "Santos",
+          "logo": "santos.png",
+          "kits": {
+            "year": "23-24",
+            "home": "santos-home.jpg",
+            "away": "santos-away.jpg",
+            "third": "santos-3rd.jpg"
+          }
+        },
+        {
+          "name": "São Paulo",
+          "logo": "sao-paulo.png",
+          "kits": {
+            "year": "23-24",
+            "home": "saopaulo-home.jpg",
+            "away": "saopaulo-away.jpg",
+            "third": "saopaulo-3rd.jpg"
+          }
+        },
+        {
+          "name": "Vasco",
+          "logo": "vasco.png",
+          "kits": {
+            "year": "23-24",
+            "home": "vasco-home.jpg",
+            "away": "vasco-away.jpg",
+            "third": "vasco-3rd.jpg"
+          }
+        }
+      ]      
+}

@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300&family=Poppins:wght@300;400;500;600;700&family=Rubik+Doodle+Shadow&family=Rubik:wght@400;500;600;700&display=swap');
+*{
+    margin: 0;
+    outline: none;
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 1.5rem;
+    background-color: #5e5e5e;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    color: #fff;
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    margin: 30px;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    justify-content: center;
+}
+#times{
+    display: flex;
+    max-width: 1500px;
+    gap: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.time{
+    position: relative;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    display: flex; 
+    width: 250px;
+    height: 280px;
+    flex-wrap: wrap;
+    border-radius: 6px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    background-color: #2e2e2e;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+.time .name{
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+}
+
+.time .escudo{
+    width: 10rem;
+    height: 10rem;
+    padding: 15px;
+    transition: box-shadow 0.3s ease-in-out;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+.time:hover{
+    cursor: pointer;
+    filter: drop-shadow(1px 1px 1px rgba(255, 255, 0, 0));
+}
+.time:hover .escudo{
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 1));
+}
+
+.time:hover .name{
+    text-shadow: 2px 2px 2px black;
+}
+
+.backdrop-blur {
+    filter: blur(5px);
+}
+
+#details{
+    display: none;
+    margin: 50px auto;
+    width: 950px;
+    height: 420px;
+    padding: 20px;
+    background-color: #2e2e2e;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, 0%);
+    z-index: 1000;
+    justify-content: space-between;
+    border: 2px solid rgb(133, 133, 133);
+}
+
+#details .top{
+    display: flex;
+    width: 100%;
+    justify-content: space-between
+}
+
+#details .details-btn {
+    position: absolute;
+    border: none;
+    top: 0;
+    right: 0;
+    color: white;
+    padding: 12px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.dados{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.down{
+    font-size: 20px;
+    padding: 10px;
+    justify-content: space-between;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+.img{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+}
+
+.camisa{
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+.camisa .tipo{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.seta{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    margin: 15px;
+}
+
+.seta:hover{
+    color: #2e2e2e;
+    cursor: pointer;
+    transform: translateY(-2px);
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+.semseta{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    margin: 15px;
+    mix-blend-mode: multiply; /* modo de mesclagem para colorir a imagem */
+    background-color: rgb(255, 255, 255);
+}

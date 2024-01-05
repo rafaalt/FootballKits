@@ -1,0 +1,185 @@
+{
+    "teams": [
+      {
+        "name": "AC Milan",
+        "logo": "milan.png",
+        "kits": {
+          "year": "23-24",
+          "home": "ACMilan-Home.jpg",
+          "away": "ACMilan-Away.jpg",
+          "third": "ACMilan-3rd.jpg"
+        }
+      },
+      {
+        "name": "Ajax",
+        "logo": "ajax.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Ajax-Home.jpg",
+          "away": "Ajax-Away.jpg",
+          "third": "Ajax-3rd.jpg"
+        }
+      },
+      {
+        "name": "Atalanta",
+        "logo": "atalanta.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Atalanta-Home.jpg",
+          "away": "Atalanta-Away.jpg",
+          "third": "Atalanta-3rd.jpg"
+        }
+      },
+      {
+        "name": "Atletico Madrid",
+        "logo": "atletico_madrid.png",
+        "kits": {
+          "year": "23-24",
+          "home": "AtleticoMadrid-Home.jpg",
+          "away": "AtleticoMadrid-Away.jpg",
+          "third": "AtleticoMadrid-3rd.jpg"
+        }
+      },
+      {
+        "name": "Barcelona",
+        "logo": "barcelona.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Barcelona-Home.jpg",
+          "away": "Barcelona-Away.jpg",
+          "third": "Barcelona-3rd.jpg"
+        }
+      },
+      {
+        "name": "Bayern Munich",
+        "logo": "bayern_munich.png",
+        "kits": {
+          "year": "23-24",
+          "home": "BayernMunich-Home.jpg",
+          "away": "BayernMunich-Away.jpg",
+          "third": "BayernMunich-3rd.jpg"
+        }
+      },
+      {
+        "name": "Benfica",
+        "logo": "benfica.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Benfica-Home.jpg",
+          "away": "Benfica-Away.jpg",
+          "third": "Benfica-3rd.jpg"
+        }
+      },
+      {
+        "name": "Borussia Dortmund",
+        "logo": "borussia_dortmund.png",
+        "kits": {
+          "year": "23-24",
+          "home": "BorussiaDortmund-Home.jpg",
+          "away": "BorussiaDortmund-Away.jpg",
+          "third": "BorussiaDortmund-3rd.jpg"
+        }
+      },
+      {
+        "name": "Chelsea",
+        "logo": "chelsea.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Chelsea-Home.jpg",
+          "away": "Chelsea-Away.jpg",
+          "third": "Chelsea-3rd.jpg"
+        }
+      },
+      {
+        "name": "Inter Milan",
+        "logo": "inter_milan.png",
+        "kits": {
+          "year": "23-24",
+          "home": "InterMilan-Home.jpg",
+          "away": "InterMilan-Away.jpg",
+          "third": "InterMilan-3rd.jpg"
+        }
+      },
+      {
+        "name": "Juventus",
+        "logo": "juventus.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Juventus-Home.jpg",
+          "away": "Juventus-Away.jpg",
+          "third": "Juventus-3rd.jpg"
+        }
+      },
+      {
+        "name": "Liverpool",
+        "logo": "liverpool.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Liverpool-Home.jpg",
+          "away": "Liverpool-Away.jpg",
+          "third": "Liverpool-3rd.jpg"
+        }
+      },
+      {
+        "name": "Manchester City",
+        "logo": "man_city.png",
+        "kits": {
+          "year": "23-24",
+          "home": "ManCity-Home.jpg",
+          "away": "ManCity-Away.jpg",
+          "third": "ManCity-3rd.jpg"
+        }
+      },
+      {
+        "name": "Manchester United",
+        "logo": "man_united.png",
+        "kits": {
+          "year": "23-24",
+          "home": "ManUtd-Home.jpg",
+          "away": "ManUtd-Away.jpg",
+          "third": "ManUtd-3rd.jpg"
+        }
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "logo": "psg.png",
+        "kits": {
+          "year": "23-24",
+          "home": "PSG-Home.jpg",
+          "away": "PSG-Away.jpg",
+          "third": "PSG-3rd.jpg"
+        }
+      },
+      {
+        "name": "RB Leipzig",
+        "logo": "rb_leipzig.png",
+        "kits": {
+          "year": "23-24",
+          "home": "RBLeipzig-Home.jpg",
+          "away": "RBLeipzig-Away.jpg",
+          "third": "RBLeipzig-3rd.jpg"
+        }
+      },
+      {
+        "name": "Real Madrid",
+        "logo": "real_madrid.png",
+        "kits": {
+          "year": "23-24",
+          "home": "RealMadrid-Home.jpg",
+          "away": "RealMadrid-Away.jpg",
+          "third": "RealMadrid-3rd.jpg"
+        }
+      },
+      {
+        "name": "Villarreal",
+        "logo": "villarreal.png",
+        "kits": {
+          "year": "23-24",
+          "home": "Villarreal-Home.jpg",
+          "away": "Villarreal-Away.jpg",
+          "third": "Villarreal-3rd.jpg"
+        }
+      }
+    ]
+  }
+  
